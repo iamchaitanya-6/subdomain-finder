@@ -37,5 +37,7 @@ Tool Development: Chaitanya Ch
 ```bash
 git clone https://github.com/iamchaitanya-6/subdomain-finder.git
 cd subdomain-finder
+python subfinder.py -d example.com
+
 
 
