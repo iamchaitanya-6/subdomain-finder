@@ -31,7 +31,7 @@ Original Path / Source: SecLists — Discovery/DNS
 🙌 Credits
 Wordlist: Daniel Miessler's SecLists
 
-Tool Development: Chaitanya C
+Tool Development: Chaitanya Ch
 
 
 ```bash
