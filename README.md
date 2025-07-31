@@ -16,11 +16,6 @@ Clone this repository:
 ## The whole code was developed in python
 And the list.txt is taken from[seclist]  https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-110000.txt?raw=true
 
-```bash
-git clone https://github.com/iamchaitanya-6/subdomain-finder.git
-cd subdomain-finder
-
-
 ## The whole code was developed in python
 
 
@@ -37,4 +32,10 @@ Original Path / Source: SecLists — Discovery/DNS
 Wordlist: Daniel Miessler's SecLists
 
 Tool Development: Chaitanya C
+
+
+```bash
+git clone https://github.com/iamchaitanya-6/subdomain-finder.git
+cd subdomain-finder
+
 
